@@ -33,4 +33,4 @@ identifiers:
     description: GitHub Code Repository
 repository-code: "https://github.com/danielvartan/sustentarea-pres-3/"
 license: GPL-3.0-or-later
-version: 0.1.0.9000
+version: 1.0.0
