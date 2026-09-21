@@ -22,9 +22,9 @@ keywords:
   - Sustentarea
   - USP
 identifiers:
-  # - type: doi
-  #   value: 10.5281/zenodo.
-  #   description: Zenodo Record
+  - type: doi
+    value: 10.5281/zenodo.22871930
+    description: Zenodo Record
   - type: url
     value: "https://danielvartan.com/sustentarea-pres-3/"
     description: GitHub Pages Website
@@ -33,4 +33,4 @@ identifiers:
     description: GitHub Code Repository
 repository-code: "https://github.com/danielvartan/sustentarea-pres-3/"
 license: GPL-3.0-or-later
-version: 1.0.0
+version: 1.0.1

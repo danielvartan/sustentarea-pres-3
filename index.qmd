@@ -5,7 +5,6 @@
 #| include: false
 
 library(here)
-library(rutils) # github.com/danielvartan/rutils
 
 source(here("R", "_setup.R"))
 ```

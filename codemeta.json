@@ -51,6 +51,7 @@
   "issueTracker": "https://github.com/danielvartan/sustentarea-pres-3/issues",
   "runtimePlatform": "R",
   "relatedLink": [
+    "https://doi.org/10.5281/zenodo.22871930",
     "https://danielvartan.com/sustentarea-pres-3/",
     "https://github.com/danielvartan/sustentarea-pres-3/"
   ],
@@ -68,5 +69,5 @@
   "developmentStatus": "inactive",
   "readme": "https://github.com/danielvartan/sustentarea-pres-3/blob/main/README.md",
   "releaseNotes": "https://github.com/danielvartan/sustentarea-pres-3/blob/main/CHANGELOG.md",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![DOI Badge](https://img.shields.io/badge/doi-10.5281/zenodo.22871930-1284C5.svg)](https://doi.org/10.5281/zenodo.22871930)
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-bd0000.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <!-- badges: end -->
@@ -35,10 +36,12 @@ This will activate the rendering process. Once completed, the presentation will 
 
 ## Citation
 
+[![DOI Badge](https://img.shields.io/badge/doi-10.5281/zenodo.22871930-1284C5.svg)](https://doi.org/10.5281/zenodo.22871930)
+
 To cite this work, please use the following format:
 
 Vartanian, D. (2026). *Zenodo: Publique. Cite. Preserve* \[Presentation\].
-<https://danielvartan.com/sustentarea-pres-3>
+<https://doi.org/10.5281/zenodo.22871930>
 
 A BibLaTeX entry for LaTeX users is:
 
@@ -48,6 +51,7 @@ A BibLaTeX entry for LaTeX users is:
   author = {{Daniel Vartanian}},
   year = {2026},
   url = {https://danielvartan.com/sustentarea-pres-3},
+  doi = {10.5281/zenodo.22871930},
   langid = {pt-BR},
   note = {Presentation}
 }
