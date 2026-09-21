@@ -1,0 +1,19 @@
+<section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
+  <h1 class="title" style="font-size: 2.75em; line-height: 1; text-align: left; padding-bottom: 15px;">Zenodo<br><span style="color: #A79791; font-size: 0.7em;">Publique. Cite. Preserve.</span></h1>
+$if(subtitle)$
+  <p class="subtitle" style="text-align: left; color: white;">$subtitle$</p>
+$endif$
+  <div style="text-align: left; float: left; padding-top: 30px;">
+$for(author)$
+    <p class="author" style="font-size: 0.75em;">$author$</p>
+$endfor$
+$if(date)$
+    <p class="date" style="font-size: 0.75em;">$date$</p>
+$endif$
+  </div>
+  <div style="text-align: left; float: right; padding-top: 30px;">
+    <a href="https://www.fsp.usp.br/sustentarea/" target="_blank"><img src="images/sustentarea-logo.svg" style="width: 115px; padding-left: 20px"></a>
+    <a href="https://www.fsp.usp.br" target="_blank"><img src="images/usp-fsp-logo.png" style="width: 115px; padding-left: 15px"></a>
+    <a href="https://www5.usp.br" target="_blank"><img src="images/usp-logo.svg" style="width: 140px; padding-left: 20px; padding-bottom: 25px;"></a>
+  </div>
+</section>

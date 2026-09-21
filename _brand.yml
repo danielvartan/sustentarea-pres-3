@@ -1,0 +1,72 @@
+meta:
+  name: Sustentarea Research and Extension Group
+  link:
+    home: https://www.fsp.usp.br/sustentarea
+    github: https://github.com/sustentarea
+    instagram: https://instagram.com/sustentarea
+    facebook: https://www.facebook.com/sustentarea
+    spotify: https://open.spotify.com/show/0loUt1qoEsko66pW6hwd05
+    youtube: https://www.youtube.com/@sustentareausp
+    linkedin: https://www.linkedin.com/in/sustentarea-usp-230700218
+    linktree: https://linktr.ee/sustentarea.usp
+  description: |
+    Research and extension center at the University of São Paulo (USP) focused
+    on food systems, sustainable diets, and the global syndemic.
+  founded: 2012
+
+color:
+  palette:
+    green: "#006909"
+    red: "#ed6b4d"
+    red-l50: "#ffb5ab" # colorspace::lighten("#f5b4a5", 0.5)
+    brown: "#513024"
+    brown-l50: "#af8e85" # colorspace::lighten("#513024", 0.5)
+    light-green: "#9ecd7a"
+    dark-red: "#b44522"
+    dark-red-triadic-blue: "#4522b4" # colortools::triadic("#b44522")[3]
+    white: "#ffffff"
+    gray: "#7a7a7a"
+    gray-l50: "#bababa" # colorspace::lighten("#7a7a7a", 0.5)
+    gray-l95: "#f8f8f8" # colorspace::lighten("#7a7a7a", 0.95)
+    gray-d15: "#676767" # colorspace::darken("#7a7a7a", 0.15)
+    gray-d25: "#5a5a5a" # colorspace::darken("#7a7a7a", 0.25)
+    gray-d45: "#424242" # colorspace::darken("#7a7a7a", 0.45)
+    gray-d50: "#3d3d3d" # colorspace::darken("#7a7a7a", 0.5)
+    black: "#272b33"
+  background: white
+  primary: green
+  secondary: red
+  tertiary: brown
+  success: light-green
+  info: green
+  warning: dark-red
+  danger: brown
+  light: white
+  dark: black
+
+typography:
+  fonts:
+    - family: Poppins
+      source: google
+      weight: [100, 200, 300, 400, 500, 600, 700, 800, 900]
+    - family: DM Mono
+      source: google
+      weight: [300, 400, 500]
+  base:
+    family: Poppins
+    line-height: 1.5 # 1.75
+    weight: normal
+  headings:
+    family: Poppins
+    color: brown
+    line-height: 1.5 # 1.75
+    weight: 800
+  monospace: DM Mono
+  monospace-inline:
+    color: green
+    background-color: gray-l95
+  monospace-block:
+    background-color: gray-l95
+  link:
+    color: green
+    decoration: underline

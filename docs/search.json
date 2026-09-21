@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html#oiê",
+    "href": "index.html#oiê",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Oiê! 👋",
+    "text": "Oiê! 👋\n\n\nEsta apresentação fala sobre o Zenodo, um repositório universal para todos os tipos de pesquisa acadêmica.\n\nAqui estão os tópicos principais:\n\nO que é?\nPor que usá-lo?\nComo usá-lo?\nComo não usá-lo?\nExemplos de uso\n\n\n\n\n\n\n(Arte de Afry Harvy)"
+  },
+  {
+    "objectID": "index.html#zenodo",
+    "href": "index.html#zenodo",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Zenodo",
+    "text": "Zenodo\n\n\n\n\nO Zenodo é um repositório aberto para toda a produção acadêmica (catch-all repository), que permite a pesquisadores de todas as áreas compartilhar e preservar seus resultados de pesquisa, independentemente do tamanho ou do formato. (OpenAIRE, s. d.)\n\nCuriosidade: O nome Zenodo deriva de Zenódoto, o primeiro bibliotecário da Antiga Biblioteca de Alexandria.\n\nFigshare"
+  },
+  {
+    "objectID": "index.html#zenodo-1",
+    "href": "index.html#zenodo-1",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Zenodo",
+    "text": "Zenodo"
+  },
+  {
+    "objectID": "index.html#princípios-fair",
+    "href": "index.html#princípios-fair",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Princípios FAIR",
+    "text": "Princípios FAIR\n\n\n\n\n\n(saiba mais em Wilkinson et al. (2016) e GO FAIR initiative (s. d.))"
+  },
+  {
+    "objectID": "index.html#por-que-usar-o-zenodo",
+    "href": "index.html#por-que-usar-o-zenodo",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Por Que Usar o Zenodo?",
+    "text": "Por Que Usar o Zenodo?\n\n👀 VisibilidadeSeus materiais ficam citáveis (com DOI), localizáveis e com métricas de atenção por artigo.\n🤝 ConfiançaDados armazenados no CERN, com preservação de longo prazo.\n✨ OrganizaçãoVersionamento, revisão e embargo de materiais.\n🤸‍♂️ FlexibilidadeLicenciamento aberto ou restrito, conforme a sua necessidade.\n✅ Boas práticasCompatível com os princípios FAIR.\n\nOutros serviços similares incluem Figshare e ResearchGate."
+  },
+  {
+    "objectID": "index.html#como-usar-o-zenodo",
+    "href": "index.html#como-usar-o-zenodo",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Como Usar o Zenodo",
+    "text": "Como Usar o Zenodo\n\n🫵 Para quemPesquisadores, comunidades científicas e instituições, sem exigir fonte de financiamento.\n♾️ O quêDados, software, artigos, resumos, tabelas, fotos, …\n📄 FormatoQualquer arquivo, sem exigências de tamanho, acesso ou licença.\n👥 ComunidadesCrie a sua (workshop, projeto, departamento ou periódico) e aceite ou rejeite envios.\n🤖 AutomaçãoAPIs e hooks no GitHub para integrar ao seu fluxo de pesquisa."
+  },
+  {
+    "objectID": "index.html#como-não-usar-o-zenodo",
+    "href": "index.html#como-não-usar-o-zenodo",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Como Não Usar o Zenodo",
+    "text": "Como Não Usar o Zenodo\n\n⛔ Fins não acadêmicosNão é um repositório para uso pessoal ou comercial\n⛔ Serviço de backupO armazenamento do Zenodo foi feito para ser imutável. Ele é feito para preservação.\n⛔ Informações confidenciais ou privadasNão é um local seguro para esse tipo de dado.\n⛔ Arquivos de grande porteOs registros possuem limite de 50GB e um máximo de 100 arquivos."
+  },
+  {
+    "objectID": "index.html#saiba-mais",
+    "href": "index.html#saiba-mais",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Saiba Mais",
+    "text": "Saiba Mais\n\n\nOpenAIRE. (n.d.). Zenodo: A universal repository for all your research outcomes. https://www.openaire.eu/zenodo-guide\n\nGO FAIR initiative. (n.d.). GO FAIR initiative: Make your data & services FAIR. https://www.go-fair.org\n\nBezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open science training handbook. https://open-science-training-handbook.gitbook.io\n\nDunleavy, P., & Monteath, T. (2026). Doing open social science: A guide for researchers. LSE Press. https://doi.org/10.31389/lsepress.dos"
+  },
+  {
+    "objectID": "index.html#considerações-finais",
+    "href": "index.html#considerações-finais",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Considerações Finais",
+    "text": "Considerações Finais\n \nEsta apresentação foi criada com o sistema de publicação Quarto. O código e os materiais estão disponíveis no GitHub.\n\n\n\n\n\n(Arte de Allison Horst)"
+  },
+  {
+    "objectID": "index.html#referências",
+    "href": "index.html#referências",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Referências",
+    "text": "Referências\n\nDe acordo com o estilo da American Psychological Association (APA), 7. edição.\n\n\n\nBartling, S., & Friesike, S. (Org.). (2014). Opening science: The evolving guide on how the internet is changing research, collaboration and scholarly publishing. Springer. https://doi.org/10.1007/978-3-319-00026-8\n\n\nBezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open science training handbook. Zenodo. https://doi.org/10.5281/zenodo.1212496\n\n\nDunleavy, P., & Monteath, T. (2026). Doing open social science: A guide for researchers. Em Doing Open Social Science. LSE Press. https://doi.org/10.31389/lsepress.dos\n\n\nEuropean Commission, & Directorate-General for Research and Innovation. (2018). OSPP-REC: open science policy platform recommendations. European Union. https://doi.org/10.2777/958647\n\n\nFecher, B., & Friesike, S. (2014). Open science: one term, five schools of thought. Em S. Bartling & S. Friesike (Org.), Opening science: the evolving guide on how the internet is changing research, collaboration and scholarly publishing (p. 17–47). Springer. https://doi.org/10.1007/978-3-319-00026-8\n\n\nGO FAIR initiative. (s. d.). GO FAIR initiative: Make your data & services FAIR. GO FAIR. https://www.go-fair.org/\n\n\nOpenAIRE. (s. d.). Zenodo: A universal repository for all your research outcomes. Recuperado 21 de setembro de 2026, de https://www.openaire.eu/zenodo-guide\n\n\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., Da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR guiding principles for scientific data management and stewardship. Scientific Data, 3(1), 160018. https://doi.org/10.1038/sdata.2016.18"
+  },
+  {
+    "objectID": "index.html#obrigado",
+    "href": "index.html#obrigado",
+    "title": "ZenodoPublique. Cite. Preserve.\n",
+    "section": "Obrigado!",
+    "text": "Obrigado!\n\n\n\n\n\n(Arte de Allison Horst)"
+  }
+]

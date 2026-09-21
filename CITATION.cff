@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this document, please cite it as below."
+title: "Zenodo: Publique. Cite. Preserve."
+type: software
+authors:
+  - family-names: Vartanian
+    given-names: Daniel
+    email: danielvartan@proton.me
+    orcid: "https://orcid.org/0000-0001-7782-759X"
+repository-code: "https://github.com/danielvartan/sustentarea-pres-3"
+url: "https://danielvartan.com/sustentarea-pres-3/"
+abstract: >
+  This repository contains the slides from the presentation "Zenodo: Publique. Cite. Preserve", delivered on September 21, 2026, during a regular meeting at Sustentarea Research and Extension Center.
+keywords:
+  - Zenodo
+  - Repositório
+  - Ciência Aberta
+  - Dados Abertos
+  - Reprodutibilidade
+  - OpenAIRE
+  - CERN
+  - Sustentarea
+  - USP
+identifiers:
+  # - type: doi
+  #   value: 10.5281/zenodo.
+  #   description: Zenodo Record
+  - type: url
+    value: "https://danielvartan.com/sustentarea-pres-3/"
+    description: GitHub Pages Website
+  - type: url
+    value: "https://github.com/danielvartan/sustentarea-pres-3/"
+    description: GitHub Code Repository
+repository-code: "https://github.com/danielvartan/sustentarea-pres-3/"
+license: GPL-3.0-or-later
+version: 0.1.0.9000

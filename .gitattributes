@@ -1,0 +1,12 @@
+*.qmd linguist-detectable
+*.qmd linguist-language=Markdown
+
+*.bib linguist-documentation
+images/** linguist-documentation
+scss/** linguist-documentation
+
+.vscode/** linguist-generated
+docs/** linguist-generated
+
+csl/** linguist-vendored
+fonts/** linguist-vendored
