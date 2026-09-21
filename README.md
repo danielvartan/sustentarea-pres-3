@@ -48,7 +48,7 @@ A BibLaTeX entry for LaTeX users is:
   author = {{Daniel Vartanian}},
   year = {2026},
   url = {https://danielvartan.com/sustentarea-pres-3},
-  langid = {en},
+  langid = {pt-BR},
   note = {Presentation}
 }
 ```
